@@ -2,7 +2,7 @@ University of Waikato assignments repositories:
 
 # Advanced Web Development
 - react-website
-  - NA
+  - JavaScript, Bootstrap, React.js, CSS, HTML
 - rest-api-application
   - Javascript, MySQL, Node.js, Express.js
 - object-oriented-website
