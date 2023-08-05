@@ -17,14 +17,3 @@ Uses: PHP, JavaScript, MySQL, CSS, HTML, DHTML, External API's, AJAX
 Uses C#/.NET, Microsoft SQL Server
 ### [relational-database](https://github.com/Ben-JClark/relational-database)
 Uses Entity Relationship model, Microsoft SQL Server
-
-## Web Development
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br>
-### [catalog-website](https://github.com/Ben-JClark/catalog-website)
-Uses: XML, PHP, JavaScript, CSS
-### [dynamic-website](https://github.com/Ben-JClark/dynamic-website)
-Uses: PHP, JavaScript, CSS, HTML
-### [interactive-website](https://github.com/Ben-JClark/interactive-website)
-Uses: JavaScript, CSS, HTML
-### [static-website](https://github.com/Ben-JClark/static-website)
-Uses: CSS, HTML
