@@ -1,11 +1,11 @@
 # Personal Projects
 ### [Minecraft builing site](https://github.com/Ben-JClark/minecraftbuilds)
-A website for Minecraft gamers to create accounts, join Minecraft Servers, and post their builds for others to like and comment on.
+A website for Minecraft gamers to create accounts, join Minecraft Servers, and post their builds for others to like and comment on.<br>
 The Frontend uses: React, TypeScript, CSS, CSS<br>
 The Backend uses: Node, TypeScript, Express, MySQL<br>
 
 ### [villager-trades](https://github.com/Ben-JClark/villager-trades)
-An online tool for Minecraft gamers to find useful Villager NPC trades.
+An online tool for Minecraft gamers to find useful Villager NPC trades.<br>
 Uses: React, TypeScript, Bootstrap, CSS<br>
 Hosted on AWS [http://bensweb.click/villager-trades/](http://bensweb.click/villager-trades/)
 
