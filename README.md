@@ -1,12 +1,20 @@
 # Personal Projects
+### [Product website](https://github.com/Ben-JClark/product-website)
+A website that displays a list of products, the user can select a product and update or delete it. Users can also create a product.<br>
+Products also belong to a category, a list of available categories is provided when the user modifies or creates a product.<br>
+Front-end stack: React, CSS<br>
+Back-end stack: ASP.NET Core, Entitiy Framework core<br>
+Datebase: MS LocalDB<br>
+
 ### [Minecraft builing site](https://github.com/Ben-JClark/minecraftbuilds)
 A website for Minecraft gamers to create accounts, join Minecraft Servers, and post their builds for others to like and comment on.<br>
-The Frontend uses: React, TypeScript, CSS, CSS<br>
-The Backend uses: Node, TypeScript, Express, MySQL<br>
+Front-end stack: React, TypeScript, CSS<br>
+Back-end stack: Node, TypeScript, Express<br>
+Database: MySQL<br>
 
-### [villager-trades](https://github.com/Ben-JClark/villager-trades)
+### [villager trades](https://github.com/Ben-JClark/villager-trades)
 An online tool for Minecraft gamers to find useful Villager NPC trades.<br>
-Uses: React, TypeScript, Bootstrap, CSS<br>
+Front-end stack: React, TypeScript, Bootstrap, CSS<br>
 Hosted on AWS [http://bensweb.click/villager-trades/](http://bensweb.click/villager-trades/)
 
 # University of Waikato assignment repositories
